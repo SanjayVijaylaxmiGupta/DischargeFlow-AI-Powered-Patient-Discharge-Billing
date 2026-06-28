@@ -17,8 +17,7 @@ Patient discharge billing in hospitals is currently a fragmented, manual process
 The Cost of Manual Billing:
 * High Error Rates (12-15%): Typographical errors on diagnosis or billing codes lead to immediate claim rejections.
 * Delayed Cash Flow: Mailing paper bills delays payments by weeks.
-* Administrative Burnout: Clinicians waste hours on paperwork instead of patient care.
-* Revenue Leakage: Mid-sized hospitals lose between $500K and $2M annually due to coding errors and delayed claim submissions.
+* Administrative Burnout: Clinicians waste hours on paperwork instead of patient care.\
 
 ### The Solution: DischargeFlow
 DischargeFlow is an end-to-end orchestration that automates the entire patient discharge-to-payment pipeline down to **under 2 hours**. By utilizing a single Maestro BPMN process, we coordinate autonomous AI agents, legacy system RPA robots, and human-in-the-loop exception handling. 
